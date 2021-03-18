@@ -19,7 +19,7 @@ h1 {
 }
 
 .muna {
-    padding: 55px;
+    padding: 57px;
     width: 200px;
     border: dotted black;
 }
@@ -33,7 +33,10 @@ h1 {
     padding: 79px;
     border: dotted black;
 }
-angie {
+.angie {
+    border: dotted black;
+    padding: 80px;
+    width: 500px;
    
 }
 .afsanaangie {
