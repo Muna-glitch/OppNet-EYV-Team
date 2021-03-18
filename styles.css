@@ -1,0 +1,55 @@
+img {
+    height: 250px;
+    border: solid black;
+    padding: 20px;
+    margin: 8px;
+}
+
+h1 {
+    color: brown;
+    font-family: cursive;
+    margin: 30px;
+    text-align: center;
+}
+
+.zybelmuna {
+    display: flex;
+    align-items:center;
+    
+}
+
+.muna {
+    padding: 55px;
+    width: 200px;
+    border: dotted black;
+}
+
+.zybel {
+    padding:60px;
+    width: 200px;
+    border: dotted black;
+}
+.afsana {
+    padding: 79px;
+    border: dotted black;
+}
+angie {
+   
+}
+.afsanaangie {
+    display: flex;
+    align-items:center;
+}
+
+h2 {
+    padding: 50px;
+    
+}
+
+body {
+    background-color: lightgrey;
+}
+
+.four {
+    padding:87px;
+}
